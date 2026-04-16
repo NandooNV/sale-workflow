@@ -1,0 +1,7 @@
+- Lorenzo Battistini \<<lb@agilebg.com>\>
+- Yannick Vaucher \<<yannick.vaucher@camptocamp.com>\>
+- Alexis de Lattre \<<alexis.delattre@akretion.com>\>
+- Bhavesh Odedra \<<bodedra@sunprosolutions.com>\>
+- Serpent Consulting Services Pvt. Ltd.
+- Bhavesh Odedra \<<bodedra@sunprosolutions.com>\>
+- Kitti Upariphutthiphong \<<kittiu@ecosoft.co.th>\>
